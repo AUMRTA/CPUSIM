@@ -1,0 +1,5 @@
+START: INP
+BUN K
+INP
+K: OUT
+HLT
