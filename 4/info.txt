@@ -1,0 +1,28 @@
+# Subtract
+
+START: INP
+(Start the program and ask for input)
+
+STA NUM
+(Store the input into num)
+
+INP
+(Take another input)
+
+CMP
+(Complementing the second input)
+
+INC
+(Increasing the complemented number by 1)
+
+ADD NUM
+(Adding the complemented numnber and number stored in NUM)
+
+OUT
+(Printing the number)
+
+HLT
+(Halting the program)
+
+NUM: data 1 0
+(Defining the variable data with length 1 and initial value 0)
